@@ -1,4 +1,3 @@
-c:\users\osman\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedLib\obj\Debug\GettingStartedLib.csprojResolveAssemblyReference.cache
 c:\users\osman\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
 c:\users\osman\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.dll
 c:\users\osman\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedLib\bin\Debug\GettingStartedLib.pdb

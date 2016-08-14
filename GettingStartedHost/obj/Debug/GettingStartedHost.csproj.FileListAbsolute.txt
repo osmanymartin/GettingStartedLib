@@ -1,0 +1,8 @@
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\OSMAN\documents\visual studio 2013\Projects\GettingStartedLib\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
